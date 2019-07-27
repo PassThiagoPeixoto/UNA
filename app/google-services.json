@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "1053753909815",
+    "firebase_url": "https://uber-2581b.firebaseio.com",
+    "project_id": "uber-2581b",
+    "storage_bucket": "uber-2581b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053753909815:android:7275ccf5d7c03981",
+        "android_client_info": {
+          "package_name": "com.example.dell.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053753909815-s3rv2k1qrs3m2bv48ctpauog3u7dtvks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.uber",
+            "certificate_hash": "15e780ae6f0d03b71bfc8f124ee4d80820f7d356"
+          }
+        },
+        {
+          "client_id": "1053753909815-5ku4ovtlb21nksakc1c9d2s4un67br68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcI6wK2Oy-U-HNuWvNRIIUO491TGqOh-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053753909815-5ku4ovtlb21nksakc1c9d2s4un67br68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053753909815:android:7ec5f84045b41985",
+        "android_client_info": {
+          "package_name": "com.pampasistemas.una"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053753909815-jk290saavgh2akqie85o25i129j8541k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pampasistemas.una",
+            "certificate_hash": "406471d8b5a40ffcfe857c550903ad3dd386964c"
+          }
+        },
+        {
+          "client_id": "1053753909815-5ku4ovtlb21nksakc1c9d2s4un67br68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcI6wK2Oy-U-HNuWvNRIIUO491TGqOh-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053753909815-5ku4ovtlb21nksakc1c9d2s4un67br68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053753909815:android:cff536679705a869",
+        "android_client_info": {
+          "package_name": "com.una.pampasistemas.thiagopeixoto.unabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053753909815-gj4quthoqsv9gigb3u9jq910vj591rhh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.una.pampasistemas.thiagopeixoto.unabase",
+            "certificate_hash": "406471d8b5a40ffcfe857c550903ad3dd386964c"
+          }
+        },
+        {
+          "client_id": "1053753909815-5ku4ovtlb21nksakc1c9d2s4un67br68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcI6wK2Oy-U-HNuWvNRIIUO491TGqOh-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053753909815-5ku4ovtlb21nksakc1c9d2s4un67br68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
