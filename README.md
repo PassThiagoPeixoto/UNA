@@ -10,8 +10,10 @@ Utilize o emulador e um celular de usa escolha se vai ser motorista ou usuario
 - [x] Motorista
 - [x] Corrida
 - [x] Pagamentos
--- [x] Dinheiro
--- [ ] Cartão
+
+- [x] Dinheiro
+- [ ] Cartão
+
 - [ ] Verificar email
 - [ ] Verificar Indentificação
 - [ ] Verificar numero de celular
